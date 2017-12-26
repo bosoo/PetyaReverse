@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZVector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZInfect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZFilePath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMBR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZSystemCmd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZNetwork.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMutex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZPE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZProcess.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZPrivilege.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZCompress.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZCollectAccount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ZVector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZInfect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZFilePath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMBR.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZSystemCmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZNetwork.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMutex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZPE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZProcess.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZPrivilege.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZCompress.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZCollectAccount.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
